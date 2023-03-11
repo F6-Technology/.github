@@ -1,6 +1,8 @@
 # Olá, Seja Bem-Vindo(a) a Nossa Organização :wave: 
 
-<img src="https://github.com/F6-Technology/.github/blob/main/profile/F6_Technology-Logo.png" width="500px" align="center">
+<div align="center">
+    <img src="https://github.com/F6-Technology/.github/blob/main/profile/F6_Technology-Logo.png" width="500px">
+</div>
 
 #
 
